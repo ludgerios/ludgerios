@@ -1,40 +1,56 @@
-## BRENO LUDGERIO
+# 👨‍💻 Breno Ludgerio
 
-* 🔭 Atualmente estou trabalhando como estagiário de IT Service Management (ITSM) na Vale, atuando com gestão de incidentes e suporte à infraestrutura de TI.
+### Estudante de Análise e Desenvolvimento de Sistemas | Estagiário de ITSM na Vale
 
-* 🌱 Atualmente estou aprendendo Python, desenvolvimento de software, infraestrutura de TI e boas práticas de segurança da informação.
+Atualmente atuo com gestão de incidentes e suporte à infraestrutura de TI na Vale. Sou apaixonado por tecnologia, automação e desenvolvimento de software, buscando constantemente evoluir minhas habilidades em Python, infraestrutura, cloud e segurança da informação.
 
-* 👯 Estou procurando colaborar em projetos de programação, automação, bots para Discord e iniciativas open source.
+---
 
-* 🤔 Estou procurando ajuda com desenvolvimento backend, arquitetura de software, infraestrutura e crescimento profissional na área de tecnologia.
+### 🚀 Sobre mim
 
-* 💬 Pergunte-me sobre Python, GitHub, bots para Discord, suporte de TI, infraestrutura e minha jornada em Análise e Desenvolvimento de Sistemas.
+* 🔭 Estagiário de IT Service Management (ITSM) na Vale
+* 🌱 Estudando Python, Infraestrutura, Cloud e Segurança da Informação
+* 👯 Aberto para colaborar em projetos Open Source
+* 🤖 Desenvolvendo projetos próprios e bots para Discord
+* 💬 Pergunte-me sobre Python, GitHub, Infraestrutura e ITSM
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+* ⚡ Gosto de transformar problemas em soluções automatizadas
 
-* ⚡ Curiosidade: Comecei minha trajetória em tecnologia atuando com infraestrutura e suporte, mas também gosto de desenvolver projetos próprios em Python e explorar novas áreas da programação.
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+### 🛠️ Tecnologias
 
- ##
- 
-<div> 
-  
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ludgerios&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludgerios&layout=compact&langs_count=8&theme=tokyonight"/> 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode,linux,cs" />
+</p>
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ludgerios&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludgerios&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ludgerios&theme=tokyonight" alt="GitHub Streak"/>
+---
 
-</div>
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ludgerios&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludgerios&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ludgerios&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ludgerios/ludgerios/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🌐 Contato
+
+<p align="center">
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
