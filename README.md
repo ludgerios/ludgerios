@@ -50,7 +50,7 @@ Atualmente atuo com gestão de incidentes e suporte à infraestrutura de TI na V
 ### 🌐 Contato
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/breno-ludgerio-450070369/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
