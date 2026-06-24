@@ -39,13 +39,6 @@ Atualmente atuo com gestão de incidentes e suporte à infraestrutura de TI na V
 
 ---
 
-### 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ludgerios/ludgerios/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
 
 ### 🌐 Contato
 
