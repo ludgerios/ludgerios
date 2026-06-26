@@ -1,4 +1,4 @@
-# 👨‍💻 Breno Ludgerio
+#  Breno Ludgerio
 
 ### Estudante de Análise e Desenvolvimento de Sistemas | Estagiário de ITSM na Vale
 
@@ -18,7 +18,7 @@ Atualmente atuo com gestão de incidentes e suporte à infraestrutura de TI na V
 
 ---
 
-### 🛠️ Tecnologias
+###  Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode,linux,cs" />
@@ -26,7 +26,7 @@ Atualmente atuo com gestão de incidentes e suporte à infraestrutura de TI na V
 
 ---
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ludgerios&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -40,7 +40,7 @@ Atualmente atuo com gestão de incidentes e suporte à infraestrutura de TI na V
 ---
 
 
-### 🌐 Contato
+###  Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/breno-ludgerio-450070369/">
