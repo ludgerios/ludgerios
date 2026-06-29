@@ -1,10 +1,19 @@
 #  Breno Ludgerio
 
-### Estudante de Análise e Desenvolvimento de Sistemas | Estagiário de ITSM na Vale
+<div align="center">
 
-Atualmente atuo com gestão de incidentes e suporte à infraestrutura de TI na Vale. Sou apaixonado por tecnologia, automação e desenvolvimento de software, buscando constantemente evoluir minhas habilidades em Python, infraestrutura, cloud e segurança da informação.
+# 👨‍💻 Breno Ludgerio
 
----
+### Estudante de Análise e Desenvolvimento de Sistemas • ITSM Intern na Vale
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Linux+%7C+Cloud+Computing+%7C+ITSM;Python+Automation+%7C+Infrastructure;ServiceNow+%7C+Incident+Management;Always+Learning+New+Technologies" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ludgerios&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
+
+</div>
+
 
 ###  Sobre mim
 
