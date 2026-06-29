@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Breno Ludgerio
+#  Breno Ludgerio
 
 ### Estudante de Análise e Desenvolvimento de Sistemas • ITSM Intern na Vale
 
