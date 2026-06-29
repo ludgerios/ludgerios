@@ -1,4 +1,3 @@
-#  Breno Ludgerio
 
 <div align="center">
 
