@@ -34,15 +34,40 @@
 ---
 
 ###  Estatísticas
-
 <p align="center">
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludgerios&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ludgerios&theme=tokyonight"
+    width="100%"
+    alt="Profile Details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ludgerios&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ludgerios&theme=tokyonight"
+    width="49%"
+    alt="Repos per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ludgerios&theme=tokyonight"
+    width="49%"
+    alt="Most Commit Language"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ludgerios&theme=tokyonight"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ludgerios&theme=tokyonight&utcOffset=-3"
+    width="49%"
+    alt="Productive Time"
+  />
+</p>
+
 
 ---
 
@@ -54,3 +79,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+
+
+
+
+
