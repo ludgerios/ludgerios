@@ -19,9 +19,8 @@
 *  Estudando Python, Infraestrutura, Cloud e Segurança da Informação
 *  Aberto para colaborar em projetos Open Source
 *  Desenvolvendo projetos próprios e bots para Discord
-*  Pergunte-me sobre Python, GitHub, Infraestrutura e ITSM
 *  Estudante de Análise e Desenvolvimento de Sistemas
-*  Gosto de transformar problemas em soluções automatizadas
+
 
 ---
 
