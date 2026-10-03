@@ -1,96 +1,104 @@
 <div align="center">
 
-# Breno Ludgerio
+<img src="./assets/profile-header.svg" width="100%" alt="Breno Ludgerio — ITSM, ServiceNow, Automation and Integrations" />
 
-### Estudante de Análise e Desenvolvimento de Sistemas • ITSM Intern na Vale
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=ServiceNow+%7C+ITSM+%7C+JavaScript;Power+Automate+%7C+Teams+%7C+Adaptive+Cards;REST+APIs+%7C+SQL+Server+%7C+Integrations;Incident+%7C+Problem+%7C+Process+Automation" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ludgerios&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+<a href="https://www.linkedin.com/in/breno-ludgerio-450070369/">
+  <img src="https://img.shields.io/badge/LinkedIn-Breno%20Ludgerio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ludgerios?tab=followers">
+  <img src="https://img.shields.io/github/followers/ludgerios?label=Seguidores&style=for-the-badge&logo=github&color=181717" alt="Seguidores no GitHub"/>
+</a>
 
 </div>
 
 ---
 
-### Sobre mim
+## Sobre mim
 
-* Estagiário de **IT Service Management (ITSM) na Vale**
-* Atuação com desenvolvimento e customizações na plataforma **ServiceNow**
-* Desenvolvimento de automações utilizando **Power Automate e Microsoft Teams**
-* Experiência com **JavaScript, SQL Server, REST APIs e JSON**
-* Trabalho com processos de **Incident Management, Problem Management e integrações**
-* Estudante de **Análise e Desenvolvimento de Sistemas**
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **estagiário de IT Service Management (ITSM) na Vale**, com foco em **ServiceNow, automação de processos e integrações**.
+
+Minha rotina envolve desenvolvimento, testes e evolução de soluções corporativas relacionadas a **Incident Management, Problem Management, CMDB e continuidade de serviços**, conectando regras de negócio a automações e integrações entre plataformas.
+
+- Desenvolvimento server-side em **JavaScript no ServiceNow**
+- Automação com **Microsoft Power Automate, Microsoft Teams e Adaptive Cards**
+- Integrações com **REST APIs, Scripted REST APIs e JSON**
+- Manipulação de dados com **SQL Server e T-SQL**
+- Trabalho com **SharePoint, Azure DevOps, Git e GitHub**
 
 ---
 
-### Atuação técnica
+## Atuação técnica
 
-No ambiente corporativo, atuo no desenvolvimento e evolução de soluções voltadas à automação de processos de TI.
-
-| Área | Tecnologias e conhecimentos |
+| Área | Experiência prática |
 |---|---|
-| **ServiceNow** | Business Rules, Scheduled Jobs, Flow Designer, UI Policies, Events, Notifications, Update Sets |
-| **ITSM** | Incident Management, Problem Management, CMDB |
-| **Automação** | Power Automate, Microsoft Teams, Adaptive Cards |
-| **Desenvolvimento** | JavaScript, Python, Java, HTML, CSS |
-| **Integrações** | REST APIs, JSON, Scripted REST |
-| **Dados** | SQL Server, T-SQL |
-| **Ferramentas** | Azure DevOps, SharePoint, Git, GitHub, VS Code |
+| **ServiceNow** | Business Rules, Scheduled Jobs, Flow Designer, UI Policies, Dictionary, Events, Notifications, Update Sets e Schedules |
+| **Scripting** | JavaScript server-side, GlideRecord, GlideDateTime e regras orientadas a eventos |
+| **ITSM** | Incident Management, Problem Management, CMDB e continuidade de serviços |
+| **Automação** | Microsoft Power Automate, Microsoft Teams e Adaptive Cards |
+| **Integrações** | REST APIs, Scripted REST APIs, JSON e integrações entre sistemas |
+| **Dados** | SQL Server e T-SQL |
+| **Entrega** | Desenvolvimento, testes em DEV/QA, validação técnica e transporte via Update Sets |
+| **Ferramentas** | Azure DevOps, SharePoint, Git, GitHub e VS Code |
 
 ---
 
-### Tecnologias
+## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,git,github,vscode,linux,cs" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,git,github,vscode,linux" alt="Linguagens e ferramentas" />
 </p>
 
 <p align="center">
-  <strong>ServiceNow</strong> •
-  <strong>Power Automate</strong> •
-  <strong>SQL Server</strong> •
-  <strong>Microsoft Teams</strong> •
-  <strong>Adaptive Cards</strong> •
-  <strong>REST APIs</strong> •
-  <strong>JSON</strong> •
-  <strong>Azure DevOps</strong>
+  <img src="https://img.shields.io/badge/ServiceNow-032D42?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Microsoft Power Automate"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Microsoft Teams"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
 </p>
 
 ---
 
-### Atualmente
+## O que faço na prática
 
 ```text
-ServiceNow Development
-├── Business Rules
-├── Scheduled Jobs
+ServiceNow
+├── Regras de negócio e automações
+├── Scheduled Jobs e processamento de prazos
+├── Events e Notifications
 ├── Flow Designer
-├── REST APIs
-├── Incident Management
-└── Problem Management
+├── GlideRecord / GlideDateTime
+├── Incident / Problem / CMDB
+└── REST e Scripted REST APIs
 
-Automation & Integration
-├── Power Automate
+Automação e Integração
+├── Microsoft Power Automate
 ├── Microsoft Teams
 ├── Adaptive Cards
-├── JSON
-├── SQL Server
-└── REST APIs
+├── SQL Server / T-SQL
+├── SharePoint
+├── Azure DevOps
+└── JSON / REST APIs
 ```
 
-Meu foco está na utilização de **desenvolvimento e automação para melhorar processos reais de tecnologia**, reduzindo atividades manuais e integrando diferentes sistemas e ferramentas.
+Meu foco é transformar regras de negócio em soluções técnicas que **reduzam atividades manuais, aumentem a confiabilidade dos processos e integrem diferentes ferramentas de tecnologia**.
 
 ---
 
-### Estatísticas
+## Estatísticas
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ludgerios&theme=tokyonight"
     width="100%"
-    alt="Profile Details"
+    alt="Detalhes do perfil no GitHub"
   />
 </p>
 
@@ -98,12 +106,12 @@ Meu foco está na utilização de **desenvolvimento e automação para melhorar 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ludgerios&theme=tokyonight"
     width="49%"
-    alt="Repos per Language"
+    alt="Repositórios por linguagem"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ludgerios&theme=tokyonight"
     width="49%"
-    alt="Most Commit Language"
+    alt="Linguagem com mais commits"
   />
 </p>
 
@@ -111,27 +119,27 @@ Meu foco está na utilização de **desenvolvimento e automação para melhorar 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ludgerios&theme=tokyonight"
     width="49%"
-    alt="GitHub Stats"
+    alt="Estatísticas do GitHub"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ludgerios&theme=tokyonight&utcOffset=-3"
     width="49%"
-    alt="Productive Time"
+    alt="Horário de maior produtividade"
   />
 </p>
 
 ---
 
-### Contato
+## Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/breno-ludgerio-450070369/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Breno%20Ludgerio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <div align="center">
 
-**ServiceNow • ITSM • Automation • Integration • Development**
+**ITSM • ServiceNow • Automation • Integrations • Development**
 
 </div>
