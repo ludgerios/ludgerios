@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/followers/ludgerios?label=Seguidores&style=for-the-badge&logo=github&color=181717" alt="Seguidores no GitHub" />
 </a>
 
-[Competências](#competências-e-ferramentas) · [Projetos](#projetos-em-destaque) · [Experiência](#experiência-prática)
+[Competências](#competências-e-ferramentas) · [Projetos](#projetos-em-destaque) · [Como trabalho](#da-ideia-à-implementação)
 
 </div>
 
@@ -125,30 +125,19 @@ Laboratório de notificações pelo Teams, com Adaptive Cards e registro de envi
 
 ---
 
-## Experiência prática
+## Da ideia à implementação
 
-### Vale S.A. — IT Service Management
+### <img src="./assets/approach/web.svg" width="28" height="28" alt="" /> Soluções web
 
-**Estágio atual em ITSM**, com foco em automações, integração entre ferramentas e melhoria de processos.
+Entender a necessidade, desenhar a interface e implementar funcionalidades com foco em quem vai usar.
 
-- Desenvolvimento de scripts, regras e notificações no ServiceNow; automações com Power Automate e Microsoft Teams.
-- Trabalho com APIs REST, SQL Server, Azure DevOps e SharePoint; testes funcionais, validação de regras de negócio e documentação técnica.
+### <img src="./assets/approach/automation.svg" width="28" height="28" alt="" /> Automação e integração
 
-### Suporte técnico de redes — N1/N2
+Conectar etapas e plataformas, reduzir tarefas repetitivas e validar o resultado de cada fluxo.
 
-Experiência em atendimento técnico por call center, suporte remoto e resolução de problemas de conectividade.
+### <img src="./assets/approach/diagnostics.svg" width="28" height="28" alt="" /> Resolução de problemas
 
-- Diagnóstico de falhas, orientação a usuários e configuração de roteadores.
-- Uso de IXC Soft no atendimento e Zabbix no monitoramento de redes e acompanhamento de alertas.
-
-### Zenix Digital — desenvolvimento web
-
-**Cofundador e responsável pelo desenvolvimento web**, com participação na criação do nome e na evolução do conceito comercial da empresa.
-
-- Criação de interfaces, sites, landing pages e aplicações responsivas; implementação de funcionalidades e melhorias de UI/UX.
-- Participação nas decisões técnicas, hospedagem, publicação e evolução dos projetos digitais.
-
-[Conheça a Zenix Digital](https://zenixworks.com/)
+Investigar falhas com monitoramento e diagnóstico de redes, identificar a causa e verificar a solução.
 
 ---
 
