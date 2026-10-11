@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Breno Ludgerio  — Desenvolvimento de Software, ITSM, Automação e Redes" />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Breno Ludgerio — Desenvolvimento de Software, ITSM, Automação e Redes" />
+</picture>
 
 <br><br>
 
@@ -11,129 +14,141 @@
   <img src="https://img.shields.io/github/followers/ludgerios?label=Seguidores&style=for-the-badge&logo=github&color=181717" alt="Seguidores no GitHub" />
 </a>
 
+[Competências](#competências-e-ferramentas) · [Projetos](#projetos-em-destaque) · [Experiência](#experiência-prática)
+
 </div>
 
 ---
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário FAESA**. Minha trajetória combina suporte técnico de redes N1/N2, experiência de estágio em IT Service Management na **Vale S.A.** e desenvolvimento de automações e soluções web independentes sob a marca **Zenix | Soluções Web**.
+Sou **Breno Ludgerio**, estudante de **Análise e Desenvolvimento de Sistemas na FAESA**. Minha trajetória conecta desenvolvimento de software, automação e infraestrutura: atuo em IT Service Management na **Vale S.A.** e tenho experiência em suporte técnico de redes N1/N2.
 
-Meu foco é conectar suporte, infraestrutura e software para investigar problemas, melhorar processos e construir soluções úteis.
-
-**ITSM & Automation · Software Development · Network Infrastructure · Technical Support N1/N2**
-
----
-
-## Experiência prática
-
-### IT Service Management — Vale S.A.
-
-Experiência de estágio em gestão de serviços de TI, automação de processos, desenvolvimento de scripts e integração entre ferramentas.
-
-- **ServiceNow:** Incident Management, Problem Management, Business Rules, Scheduled Script Executions, Flow Designer, UI Policies, validações e notificações.
-- **Automação e integração:** JavaScript, Microsoft Power Automate, Teams e Adaptive Cards; APIs REST e JSON; trabalho com SQL Server/T-SQL, SharePoint e Azure DevOps.
-- **Qualidade:** testes funcionais, investigação de falhas, validação de regras de negócio, documentação técnica e melhoria de processos.
-
-### Suporte técnico de redes — N1/N2
-
-Experiência em atendimento técnico por call center e investigação de problemas de conectividade.
-
-- Diagnóstico de falhas de conexão, orientação a usuários e configuração de roteadores.
-- Familiaridade com o **IXC Soft** no contexto de atendimento e suporte.
-- Monitoramento de redes com **Zabbix**, acompanhamento de alertas e investigação inicial de indisponibilidade.
-
-Essa base complementa minha atuação em ITSM e desenvolvimento com troubleshooting, resolução de incidentes e visão de infraestrutura.
-
----
+Sou também **cofundador e responsável pelo desenvolvimento web da [Zenix Digital](https://zenixworks.com/)**, onde participo das decisões técnicas e transformo ideias em sites e aplicações funcionais.
 
 ## Competências e ferramentas
 
-### Desenvolvimento de software
+### Programação e desenvolvimento web
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,react,ts" alt="JavaScript, Python, Java, HTML, CSS, React e TypeScript" />
+<p>
+  <img src="./assets/skills/javascript.svg" height="24" alt="JavaScript" />
+  <img src="./assets/skills/python.svg" height="24" alt="Python" />
+  <img src="./assets/skills/java.svg" height="24" alt="Java" />
+  <img src="./assets/skills/react.svg" height="24" alt="React — utilizado em projetos" />
 </p>
 
-**Linguagens e web:** JavaScript, Python, Java, SQL, HTML5 e CSS3.  
-**Verificados em projetos:** React, TypeScript, Vite, Hono e APIs web.
+**Fundamentos:** HTML5, CSS3, interfaces responsivas e APIs REST.  
+**Nos projetos:** React, TypeScript, Vite e Hono; Node.js em scripts e ferramentas de desenvolvimento.
 
 ### ITSM e automação
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ServiceNow-032D42?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Microsoft Power Automate" />
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" alt="Microsoft Teams" />
-  <img src="https://img.shields.io/badge/Adaptive%20Cards-5B5FC7?style=flat-square" alt="Adaptive Cards" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+<p>
+  <img src="./assets/skills/servicenow.svg" height="24" alt="ServiceNow" />
+  <img src="./assets/skills/power-automate.svg" height="24" alt="Microsoft Power Automate" />
+  <img src="./assets/skills/teams.svg" height="24" alt="Microsoft Teams" />
 </p>
 
-### Infraestrutura e suporte
+**Processos:** Incident Management, Problem Management, testes e validações.  
+**Implementação:** Business Rules, Scheduled Script Executions, Flow Designer, UI Policies, Adaptive Cards, integrações e JSON.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Suporte%20N1%2FN2-2563EB?style=flat-square" alt="Suporte técnico N1 e N2" />
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix" />
-  <img src="https://img.shields.io/badge/IXC%20Soft-1F6FEB?style=flat-square" alt="IXC Soft" />
-  <img src="https://img.shields.io/badge/Network%20Troubleshooting-334155?style=flat-square" alt="Diagnóstico de redes" />
+### Redes e infraestrutura
+
+<p>
+  <img src="./assets/skills/zabbix.svg" height="24" alt="Zabbix" />
+  <img src="./assets/skills/ixc-soft.svg" height="24" alt="IXC Soft" />
 </p>
 
-### Dados, cloud e ferramentas
+**Atuação:** suporte remoto N1/N2, configuração de roteadores e diagnóstico de conectividade.  
+**Operação:** monitoramento de redes, acompanhamento de alertas e investigação de falhas.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-  <img src="https://img.shields.io/badge/D1-local%20demo-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="D1 local para demonstração" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e Visual Studio Code" />
+### Dados e ferramentas de desenvolvimento
+
+<p>
+  <img src="./assets/skills/sql-server.svg" height="24" alt="SQL Server" />
+  <img src="./assets/skills/git.svg" height="24" alt="Git" />
+  <img src="./assets/skills/azure-devops.svg" height="24" alt="Azure DevOps" />
 </p>
+
+**Dados:** SQL, T-SQL e SharePoint.  
+**Ferramentas:** GitHub, Visual Studio Code, versionamento e documentação técnica.
+
+### Cloud e publicação
+
+<p>
+  <img src="./assets/skills/cloudflare-workers.svg" height="24" alt="Cloudflare Workers" />
+  <img src="./assets/skills/github-pages.svg" height="24" alt="GitHub Pages" />
+</p>
+
+**Nos projetos:** publicação de sites estáticos e aplicações web; Workers e D1 local na demonstração da distribuidora.
 
 ---
 
 ## Projetos em destaque
 
-Projetos de software e laboratórios demonstrativos selecionados pelo que mostram na prática. Desenvolvo soluções independentes sob a marca **Zenix | Soluções Web**; projetos acadêmicos e demos estão identificados nas descrições.
+Uma seleção de interfaces web e automações que mostram minha atuação em desenvolvimento e ITSM.
 
-### [Patagônia — expedição ao fim do mundo](https://github.com/ludgerios/site-patagonia-turismo)
+### Patagônia — expedição ao fim do mundo
 
-Site editorial responsivo sobre destinos e expedições na Patagônia, desenvolvido como projeto acadêmico e publicado no GitHub Pages. Inclui galeria, vídeo local e formulário de consulta demonstrativo.
+<a href="https://ludgerios.github.io/site-patagonia-turismo/">
+  <img src="./assets/projects/patagonia.jpg" width="100%" alt="Captura real da página inicial do site Patagônia, com navegação e apresentação editorial" />
+</a>
 
-**Tecnologias:** HTML, CSS e JavaScript.  
-**Links:** [Demonstração online](https://ludgerios.github.io/site-patagonia-turismo/) · [Repositório](https://github.com/ludgerios/site-patagonia-turismo)
+Site editorial responsivo com destinos, galeria, vídeo local e formulário demonstrativo. **Projeto acadêmico** publicado no GitHub Pages.
 
-<p align="center">
-  <a href="https://ludgerios.github.io/site-patagonia-turismo/">
-    <img src="https://raw.githubusercontent.com/ludgerios/site-patagonia-turismo/main/screenshots/premium-desktop.png" alt="Prévia do site Patagônia em desktop" width="100%" />
-  </a>
-</p>
+**Stack:** HTML · CSS · JavaScript  
+[Repositório](https://github.com/ludgerios/site-patagonia-turismo) · [Demonstração online](https://ludgerios.github.io/site-patagonia-turismo/)
 
-### [Distribuidora Preço Bom](https://github.com/ludgerios/distribuidora-preco-bom)
+### Distribuidora Preço Bom
 
-Aplicação demonstrativa de pedidos e gestão para uma distribuidora, com catálogo, carrinho, checkout simulado e painel administrativo. **Usa dados fictícios e pagamentos MOCK; não é o sistema de produção da loja.**
+<a href="https://github.com/ludgerios/distribuidora-preco-bom">
+  <img src="./assets/projects/preco-bom.jpg" width="100%" alt="Captura real da demonstração da Distribuidora Preço Bom, com catálogo e preços de teste" />
+</a>
 
-**Tecnologias:** React, TypeScript, Vite, Hono, Cloudflare Workers, D1 local, Zod, Vitest e Playwright.  
-**Acesso:** [Código-fonte e instruções para executar a demonstração](https://github.com/ludgerios/distribuidora-preco-bom)
+Aplicação de catálogo, carrinho, pedidos e painel administrativo. **Demonstração com dados fictícios, pagamentos MOCK e D1 local**, sem conexão com a operação da loja.
 
-<p align="center">
-  <a href="https://github.com/ludgerios/distribuidora-preco-bom">
-    <img src="https://raw.githubusercontent.com/ludgerios/distribuidora-preco-bom/main/docs/screenshots/home.jpg" alt="Prévia da loja demonstrativa Distribuidora Preço Bom" width="100%" />
-  </a>
-</p>
+**Stack:** React · TypeScript · Vite · Hono · Cloudflare Workers  
+[Repositório e execução local](https://github.com/ludgerios/distribuidora-preco-bom)
 
-### [Power Automate Compliance Notifications](https://github.com/ludgerios/power-automate-compliance-notifications-)
+### ServiceNow — notificações de Problem Tasks
 
-Laboratório de automação de notificações pelo Microsoft Teams, com Adaptive Cards, registro de envios e **dados fictícios**. O repositório documenta o fluxo demonstrativo e sua configuração.
+Scheduled Job para acompanhar prazos e disparar eventos de notificação por e-mail e Microsoft Teams. O código público usa identificadores demonstrativos e exige configuração de uma instância própria.
 
-**Tecnologias:** Microsoft Power Automate, Excel Online, Microsoft Teams e Adaptive Cards.  
-**Repositório:** [Código e documentação](https://github.com/ludgerios/power-automate-compliance-notifications-)
+**Stack:** JavaScript · ServiceNow · GlideRecord · GlideDateTime  
+[Código e documentação](https://github.com/ludgerios/ServiceNow-Problem-Task-Notification-Job)
 
-### [Discord Multi-Tool Bot](https://github.com/ludgerios/botdiscord)
+### Power Automate — notificações de compliance
 
-Bot de estudos em Python com comandos para Discord e calculadora aritmética de escopo restrito, acompanhada de testes automatizados.
+Laboratório de notificações pelo Teams, com Adaptive Cards e registro de envios. **Usa dados fictícios**; o fluxo pai tem pacote importável, e a documentação descreve a evolução do fluxo filho.
 
-**Tecnologias:** Python e discord.py.  
-**Repositório:** [Código e testes](https://github.com/ludgerios/botdiscord)
+**Stack:** Power Automate · Excel Online · Microsoft Teams · Adaptive Cards  
+[Pacote e documentação](https://github.com/ludgerios/power-automate-compliance-notifications-)
+
+---
+
+## Experiência prática
+
+### Vale S.A. — IT Service Management
+
+**Estágio atual em ITSM**, com foco em automações, integração entre ferramentas e melhoria de processos.
+
+- Desenvolvimento de scripts, regras e notificações no ServiceNow; automações com Power Automate e Microsoft Teams.
+- Trabalho com APIs REST, SQL Server, Azure DevOps e SharePoint; testes funcionais, validação de regras de negócio e documentação técnica.
+
+### Suporte técnico de redes — N1/N2
+
+Experiência em atendimento técnico por call center, suporte remoto e resolução de problemas de conectividade.
+
+- Diagnóstico de falhas, orientação a usuários e configuração de roteadores.
+- Uso de IXC Soft no atendimento e Zabbix no monitoramento de redes e acompanhamento de alertas.
+
+### Zenix Digital — desenvolvimento web
+
+**Cofundador e responsável pelo desenvolvimento web**, com participação na criação do nome e na evolução do conceito comercial da empresa.
+
+- Criação de interfaces, sites, landing pages e aplicações responsivas; implementação de funcionalidades e melhorias de UI/UX.
+- Participação nas decisões técnicas, hospedagem, publicação e evolução dos projetos digitais.
+
+[Conheça a Zenix Digital](https://zenixworks.com/)
 
 ---
 
@@ -148,6 +163,6 @@ Bot de estudos em Python com comandos para Discord e calculadora aritmética de 
 <div align="center">
 
 **Breno Ludgerio** · [GitHub](https://github.com/ludgerios) · [LinkedIn](https://www.linkedin.com/in/breno-ludgerio-450070369/)  
-**Zenix | Soluções Web**
+Cofundador e responsável pelo desenvolvimento web · [Zenix Digital](https://zenixworks.com/)
 
 </div>
