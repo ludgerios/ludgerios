@@ -147,7 +147,7 @@ Bot de estudos em Python com comandos para Discord e calculadora aritmética de 
 
 <div align="center">
 
-**Breno Ludgerio dos Santos** · [GitHub](https://github.com/ludgerios) · [LinkedIn](https://www.linkedin.com/in/breno-ludgerio-450070369/)  
+**Breno Ludgerio** · [GitHub](https://github.com/ludgerios) · [LinkedIn](https://www.linkedin.com/in/breno-ludgerio-450070369/)  
 **Zenix | Soluções Web**
 
 </div>
