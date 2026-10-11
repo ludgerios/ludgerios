@@ -28,7 +28,7 @@
 
   <text x="500" y="105" text-anchor="middle" fill="#8b949e"
         font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="600">
-    Software Development • ITSM • Network Infrastructure
+    Software Development • ITSM &amp; Automation • Network Infrastructure
   </text>
 
   <rect x="210" y="124" width="580" height="1" fill="#21262d"/>
