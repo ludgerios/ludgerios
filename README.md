@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
+  <source media="(max-width: 900px)" srcset="./assets/profile-header-mobile.svg" />
   <img src="./assets/profile-header.svg" width="100%" alt="Breno Ludgerio — Desenvolvimento de Software, ITSM, Automação e Redes" />
 </picture>
 
