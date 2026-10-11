@@ -13,70 +13,59 @@
 
 ## Sobre mim
 
-Sou **Breno Ludgerio**, estudante de **Análise e Desenvolvimento de Sistemas na FAESA**. Atuo em IT Service Management na **Vale S.A.**, tenho experiência em suporte de redes N1/N2 e conecto desenvolvimento de software, automação e infraestrutura.
+Sou **Breno Ludgerio**, estudante de **Análise e Desenvolvimento de Sistemas na FAESA** e **ITSM Intern na Vale S.A.** Tenho experiência em suporte de redes N1/N2 e conecto desenvolvimento de software, automação e infraestrutura.
 
-Sou também **cofundador e responsável pelo desenvolvimento web da [Zenix Digital](https://zenixworks.com/)**, onde participo das decisões técnicas e transformo ideias em sites e aplicações funcionais.
-
----
+Sou também **CEO Executivo e cofundador da [Zenix Digital](https://zenixworks.com/)**, onde atuo no desenvolvimento web, participo das decisões técnicas e transformo ideias em sites e aplicações funcionais.
 
 ## Projetos em destaque
 
+<a href="https://github.com/ludgerios/nexusops">
+  <img src="./assets/projects/nexusops.jpg" width="800" alt="Captura real do dashboard NexusOps com indicadores de incidentes, SLAs e gráficos de dados demonstrativos" />
+</a>
+
 ### 01 — NexusOps
 
-> **Projeto principal** · Engenharia full stack aplicada à gestão de serviços.
+Plataforma full stack de gestão de serviços de TI, com incidentes, problemas, solicitações, SLAs, notificações e administração por perfil. O dashboard consulta registros persistidos por uma API autenticada.
 
-Plataforma de ITSM com incidentes, problemas e solicitações, SLAs, notificações, histórico e administração por perfil. O dashboard consulta registros persistidos em SQLite por uma API autenticada.
-
-**Engenharia:** monólito modular, migrations SQL, autorização no backend, sessões com proteção CSRF e testes de API e navegador em CI para Windows e Ubuntu. Demonstração local com dados fictícios.
+**Diferenciais técnicos:** monólito modular, migrations SQL, autorização no backend, sessões com proteção CSRF e testes de API e navegador em CI para Windows e Ubuntu. Demonstração local com dados fictícios.
 
 **Tecnologias:** React · TypeScript · Node.js · Fastify · SQLite · Vitest · Playwright<br>
 [Repositório](https://github.com/ludgerios/nexusops) · [Arquitetura](https://github.com/ludgerios/nexusops/tree/main/docs/architecture) · [Executar demonstração local](https://github.com/ludgerios/nexusops#executar-no-windows)
 
 ---
 
+<a href="https://github.com/ludgerios/distribuidora-preco-bom">
+  <img src="./assets/projects/preco-bom.jpg" width="800" alt="Captura real do catálogo demonstrativo da Distribuidora Preço Bom, com produtos e preços de teste" />
+</a>
+
 ### 02 — Distribuidora Preço Bom
 
-Aplicação demonstrativa de delivery com catálogo, carrinho, checkout, acompanhamento de pedidos e painel administrativo. Produtos e pedidos são persistidos no D1 local.
+Sistema web demonstrativo de delivery, com catálogo, carrinho, checkout, acompanhamento de pedidos e painel administrativo. Produtos e pedidos são persistidos no D1 local para explorar o fluxo completo da aplicação.
 
-**Engenharia:** API em Worker, validação com Zod, autenticação administrativa e testes com Vitest e Playwright. Dados fictícios e pagamentos simulados; a demonstração é independente da operação da loja.
+**Diferenciais técnicos:** API em Worker, validação com Zod, autenticação administrativa e testes com Vitest e Playwright. Dados fictícios e pagamentos simulados; a demonstração é independente da operação da loja.
 
 **Tecnologias:** React · TypeScript · Vite · Hono · Cloudflare Workers · D1<br>
 [Repositório](https://github.com/ludgerios/distribuidora-preco-bom) · [Arquitetura](https://github.com/ludgerios/distribuidora-preco-bom/blob/main/ARCHITECTURE.md) · [Executar demonstração local](https://github.com/ludgerios/distribuidora-preco-bom#executar-localmente)
 
 ---
 
-### 03 — ServiceNow — notificações de Problem Tasks
-
-Scheduled Job que consulta tarefas de problemas, acompanha prazos e dispara eventos para notificações por e-mail e Microsoft Teams.
-
-**Engenharia:** consultas com GlideRecord e regras de data com GlideDateTime. O código público usa identificadores demonstrativos e requer configuração de tabelas, eventos e notificações em uma instância própria.
-
-**Tecnologias:** JavaScript · ServiceNow · GlideRecord · GlideDateTime<br>
-[Repositório](https://github.com/ludgerios/ServiceNow-Problem-Task-Notification-Job) · [Código e configuração](https://github.com/ludgerios/ServiceNow-Problem-Task-Notification-Job#readme)
-
-<details>
-<summary>Ver capturas reais do NexusOps e da Distribuidora</summary>
-
-**NexusOps · Dashboard com dados demonstrativos persistidos**
-
-<a href="https://github.com/ludgerios/nexusops">
-  <img src="https://raw.githubusercontent.com/ludgerios/nexusops/main/docs/screenshots/dashboard.png" width="100%" alt="Dashboard real do NexusOps, com indicadores, gráficos e chamados recentes" />
+<a href="https://ludgerios.github.io/site-patagonia-turismo/">
+  <img src="./assets/projects/patagonia.jpg" width="800" alt="Captura real da página inicial do site Patagonia, com navegação e apresentação editorial de turismo" />
 </a>
 
-**Distribuidora Preço Bom · Catálogo demonstrativo**
+### 03 — Patagonia
 
-<a href="https://github.com/ludgerios/distribuidora-preco-bom">
-  <img src="./assets/projects/preco-bom.jpg" width="100%" alt="Captura real da demonstração da Distribuidora Preço Bom, com catálogo e preços de teste" />
-</a>
+Website editorial responsivo sobre a Patagônia, com destinos, expedições, galeria de imagens WebP e vídeo MP4 local. Projeto acadêmico de frontend publicado no GitHub Pages, com foco na navegação e na experiência visual.
 
-</details>
+**Diferenciais técnicos:** HTML semântico, CSS responsivo e JavaScript nativo, com menu acessível, indicação da seção ativa e suporte a movimento reduzido. O formulário é demonstrativo, com validação no navegador.
 
----
+**Tecnologias:** HTML5 · CSS3 · JavaScript · GitHub Pages<br>
+[Repositório](https://github.com/ludgerios/site-patagonia-turismo) · [Demonstração online](https://ludgerios.github.io/site-patagonia-turismo/) · [Documentação](https://github.com/ludgerios/site-patagonia-turismo#readme)
 
 ## Outros Projetos
 
-- **[Patagônia — expedição ao fim do mundo](https://github.com/ludgerios/site-patagonia-turismo)** — Site editorial responsivo com destinos, galeria, vídeo local e formulário demonstrativo. Projeto acadêmico.<br>
-  **Tecnologias:** HTML · CSS · JavaScript · [Demonstração online](https://ludgerios.github.io/site-patagonia-turismo/)
+- **[ServiceNow — notificações de Problem Tasks](https://github.com/ludgerios/ServiceNow-Problem-Task-Notification-Job)** — Scheduled Job que consulta tarefas e dispara eventos para notificações por e-mail e Teams. Exige configuração em uma instância própria.<br>
+  **Tecnologias:** JavaScript · ServiceNow · GlideRecord · GlideDateTime
 
 - **[Power Automate — notificações de compliance](https://github.com/ludgerios/power-automate-compliance-notifications-)** — Laboratório com fluxo pai importável, validações, Adaptive Cards e registro de envios. Dados fictícios; o fluxo filho está documentado como evolução.<br>
   **Tecnologias:** Power Automate · Excel Online · Microsoft Teams · Adaptive Cards
@@ -84,72 +73,82 @@ Scheduled Job que consulta tarefas de problemas, acompanha prazos e dispara even
 - **[Bot Discord](https://github.com/ludgerios/botdiscord)** — Bot de estudos com comandos utilitários, eventos de membros e calculadora aritmética limitada por AST.<br>
   **Tecnologias:** Python · discord.py
 
-<details>
-<summary>Ver captura do site Patagônia</summary>
-
-**Patagônia · Site acadêmico publicado**
-
-<a href="https://ludgerios.github.io/site-patagonia-turismo/">
-  <img src="./assets/projects/patagonia.jpg" width="100%" alt="Captura real da página inicial do site Patagônia, com navegação e apresentação editorial" />
-</a>
-
-</details>
-
----
-
 ## Competências e ferramentas
 
-- **Desenvolvimento:** HTML5, CSS3, JavaScript, Python, Java, interfaces responsivas e APIs REST. React, TypeScript, Node.js, Fastify, Vite e Hono nos projetos.
-- **ITSM e automação:** Incident Management, Problem Management, Business Rules, Scheduled Script Executions, Flow Designer, UI Policies, Power Automate, Adaptive Cards, integrações e JSON.
-- **Redes e infraestrutura:** suporte remoto N1/N2, configuração de roteadores, diagnóstico de conectividade, monitoramento com Zabbix e operação com IXC Soft.
-- **Dados e qualidade:** SQL, T-SQL, SharePoint, SQLite, testes com Vitest e Playwright, validação de entradas e documentação técnica.
-- **Entrega e ferramentas:** Git, GitHub, GitHub Actions, Visual Studio Code e Azure DevOps; publicação web, GitHub Pages e Cloudflare Workers, com D1 local no projeto demonstrativo.
+### Linguagens e desenvolvimento
 
-<details>
-<summary>Ferramentas por área</summary>
+<table>
+  <tr>
+    <td align="center" colspan="2"><img src="./assets/technologies/html5.svg" width="40" height="40" alt="HTML5" /><br><sub>HTML5</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/css3.svg" width="40" height="40" alt="CSS3" /><br><sub>CSS3</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/javascript.svg" width="40" height="40" alt="JavaScript" /><br><sub>Java&#8203;Script</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="./assets/technologies/typescript.svg" width="40" height="40" alt="TypeScript" /><br><sub>Type&#8203;Script</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/python.svg" width="40" height="40" alt="Python" /><br><sub>Python</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/java.svg" width="40" height="40" alt="Java" /><br><sub>Java</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="./assets/technologies/react.svg" width="40" height="40" alt="React" /><br><sub>React</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/nodejs.svg" width="40" height="40" alt="Node.js" /><br><sub>Node.js</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/vite.svg" width="40" height="40" alt="Vite" /><br><sub>Vite</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="6"><img src="./assets/technologies/fastify.svg" width="40" height="40" alt="Fastify" /><br><sub>Fastify</sub></td>
+  </tr>
+</table>
 
-**Programação e desenvolvimento web**
+### ITSM e automação
 
-<p>
-  <img src="./assets/skills/javascript.svg" height="24" alt="JavaScript" />
-  <img src="./assets/skills/python.svg" height="24" alt="Python" />
-  <img src="./assets/skills/java.svg" height="24" alt="Java" />
-  <img src="./assets/skills/react.svg" height="24" alt="React — utilizado em projetos" />
-</p>
+<table>
+  <tr>
+    <td align="center" colspan="2"><img src="./assets/technologies/servicenow.svg" width="40" height="40" alt="ServiceNow" /><br><sub>Service&#8203;Now</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/power-automate.svg" width="40" height="40" alt="Power Automate" /><br><sub>Power<br>Automate</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/power-bi.svg" width="40" height="40" alt="Power BI" /><br><sub>Power BI</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="6"><img src="./assets/technologies/teams.svg" width="40" height="40" alt="Microsoft Teams" /><br><sub>Microsoft<br>Teams</sub></td>
+  </tr>
+</table>
 
-**ITSM e automação**
+Incident Management · Problem Management · Business Rules · Flow Designer · Scheduled Script Executions · UI Policies · Integrações REST · Adaptive Cards
 
-<p>
-  <img src="./assets/skills/servicenow.svg" height="24" alt="ServiceNow" />
-  <img src="./assets/skills/power-automate.svg" height="24" alt="Microsoft Power Automate" />
-  <img src="./assets/skills/teams.svg" height="24" alt="Microsoft Teams" />
-</p>
+### Dados e infraestrutura
 
-**Redes e infraestrutura**
+<table>
+  <tr>
+    <td align="center" colspan="2"><img src="./assets/technologies/sql-server.svg" width="40" height="40" alt="SQL Server" /><br><sub>SQL Server</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/sqlite.svg" width="40" height="40" alt="SQLite" /><br><sub>SQLite</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/linux.svg" width="40" height="40" alt="Linux" /><br><sub>Linux</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><img src="./assets/technologies/windows.svg" width="40" height="40" alt="Windows" /><br><sub>Windows</sub></td>
+    <td align="center" colspan="3"><img src="./assets/technologies/cloudflare.svg" width="40" height="40" alt="Cloudflare" /><br><sub>Cloud&#8203;flare</sub></td>
+  </tr>
+</table>
 
-<p>
-  <img src="./assets/skills/zabbix.svg" height="24" alt="Zabbix" />
-  <img src="./assets/skills/ixc-soft.svg" height="24" alt="IXC Soft" />
-</p>
+SQL · T-SQL · SharePoint · Linux e Windows como ambientes de execução e CI.<br>
+Suporte de redes N1/N2, diagnóstico de conectividade e monitoramento com Zabbix e IXC Soft.
 
-**Dados e ferramentas de desenvolvimento**
+### Ferramentas e qualidade
 
-<p>
-  <img src="./assets/skills/sql-server.svg" height="24" alt="SQL Server" />
-  <img src="./assets/skills/git.svg" height="24" alt="Git" />
-  <img src="./assets/skills/azure-devops.svg" height="24" alt="Azure DevOps" />
-</p>
-
-**Cloud e publicação**
-
-<p>
-  <img src="./assets/skills/cloudflare-workers.svg" height="24" alt="Cloudflare Workers" />
-  <img src="./assets/skills/github-pages.svg" height="24" alt="GitHub Pages" />
-</p>
-
-</details>
-
----
+<table>
+  <tr>
+    <td align="center" colspan="2"><img src="./assets/technologies/git.svg" width="40" height="40" alt="Git" /><br><sub>Git</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/github.svg" width="40" height="40" alt="GitHub" /><br><sub>GitHub</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/github-actions.svg" width="40" height="40" alt="GitHub Actions" /><br><sub>GitHub<br>Actions</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="./assets/technologies/vscode.svg" width="40" height="40" alt="Visual Studio Code" /><br><sub>Visual Studio<br>Code</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/azure-devops.svg" width="40" height="40" alt="Azure DevOps" /><br><sub>Azure<br>DevOps</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/postman.svg" width="40" height="40" alt="Postman" /><br><sub>Postman</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="./assets/technologies/vitest.svg" width="40" height="40" alt="Vitest" /><br><sub>Vitest</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/playwright.svg" width="40" height="40" alt="Playwright" /><br><sub>Play&#8203;wright</sub></td>
+    <td align="center" colspan="2"><img src="./assets/technologies/figma.svg" width="40" height="40" alt="Figma" /><br><sub>Figma</sub></td>
+  </tr>
+</table>
 
 ## Da ideia à implementação
 
@@ -165,8 +164,6 @@ Conectar etapas e plataformas, reduzir tarefas repetitivas e validar o resultado
 
 Investigar falhas com monitoramento e diagnóstico de redes, identificar a causa e verificar a solução.
 
----
-
 ## Atividade no GitHub
 
 <p align="center">
@@ -178,6 +175,6 @@ Investigar falhas com monitoramento e diagnóstico de redes, identificar a causa
 <div align="center">
 
 **Breno Ludgerio** · [GitHub](https://github.com/ludgerios) · [LinkedIn](https://www.linkedin.com/in/breno-ludgerio-450070369/)<br>
-Cofundador e responsável pelo desenvolvimento web · [Zenix Digital](https://zenixworks.com/)
+CEO Executivo e cofundador · [Zenix Digital](https://zenixworks.com/)
 
 </div>
