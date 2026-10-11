@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Breno Ludgerio dos Santos — Desenvolvimento de Software, ITSM, Automação e Redes" />
+<img src="./assets/profile-header.svg" width="100%" alt="Breno Ludgerio  — Desenvolvimento de Software, ITSM, Automação e Redes" />
 
 <br><br>
 
