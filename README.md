@@ -77,78 +77,60 @@ Website editorial responsivo sobre a Patagônia, com destinos, expedições, gal
 
 ### Linguagens e desenvolvimento
 
-<table>
-  <tr>
-    <td align="center" colspan="2"><img src="./assets/technologies/html5.svg" width="40" height="40" alt="HTML5" /><br><sub>HTML5</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/css3.svg" width="40" height="40" alt="CSS3" /><br><sub>CSS3</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/javascript.svg" width="40" height="40" alt="JavaScript" /><br><sub>Java&#8203;Script</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="./assets/technologies/typescript.svg" width="40" height="40" alt="TypeScript" /><br><sub>Type&#8203;Script</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/python.svg" width="40" height="40" alt="Python" /><br><sub>Python</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/java.svg" width="40" height="40" alt="Java" /><br><sub>Java</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="./assets/technologies/react.svg" width="40" height="40" alt="React" /><br><sub>React</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/nodejs.svg" width="40" height="40" alt="Node.js" /><br><sub>Node.js</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/vite.svg" width="40" height="40" alt="Vite" /><br><sub>Vite</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="6"><img src="./assets/technologies/fastify.svg" width="40" height="40" alt="Fastify" /><br><sub>Fastify</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="./assets/technologies/html5.svg" width="22" height="22" alt="HTML5" /> HTML5 &nbsp;·&nbsp;
+  <img src="./assets/technologies/css3.svg" width="22" height="22" alt="CSS3" /> CSS3 &nbsp;·&nbsp;
+  <img src="./assets/technologies/javascript.svg" width="22" height="22" alt="JavaScript" /> JavaScript &nbsp;·&nbsp;
+  <img src="./assets/technologies/typescript.svg" width="22" height="22" alt="TypeScript" /> TypeScript &nbsp;·&nbsp;
+  <img src="./assets/technologies/python.svg" width="22" height="22" alt="Python" /> Python &nbsp;·&nbsp;
+  <img src="./assets/technologies/java.svg" width="22" height="22" alt="Java" />
+</p>
+<p>
+  <img src="./assets/technologies/react.svg" width="22" height="22" alt="React" /> React &nbsp;·&nbsp;
+  <img src="./assets/technologies/nodejs.svg" width="22" height="22" alt="Node.js" /> Node.js &nbsp;·&nbsp;
+  <img src="./assets/technologies/vite.svg" width="22" height="22" alt="Vite" /> Vite &nbsp;·&nbsp;
+  <img src="./assets/technologies/fastify.svg" width="22" height="22" alt="Fastify" /> Fastify
+</p>
 
 ### ITSM e automação
 
-<table>
-  <tr>
-    <td align="center" colspan="2"><img src="./assets/technologies/servicenow.svg" width="40" height="40" alt="ServiceNow" /><br><sub>Service&#8203;Now</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/power-automate.svg" width="40" height="40" alt="Power Automate" /><br><sub>Power<br>Automate</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/power-bi.svg" width="40" height="40" alt="Power BI" /><br><sub>Power BI</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="6"><img src="./assets/technologies/teams.svg" width="40" height="40" alt="Microsoft Teams" /><br><sub>Microsoft<br>Teams</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="./assets/technologies/servicenow.svg" width="22" height="22" alt="ServiceNow" /> ServiceNow &nbsp;·&nbsp;
+  <img src="./assets/technologies/power-automate.svg" width="22" height="22" alt="Power Automate" /> Power Automate &nbsp;·&nbsp;
+  <img src="./assets/technologies/power-bi.svg" width="22" height="22" alt="Power BI" /> Power BI &nbsp;·&nbsp;
+  <img src="./assets/technologies/teams.svg" width="22" height="22" alt="Microsoft Teams" /> Microsoft Teams
+</p>
 
 Incident Management · Problem Management · Business Rules · Flow Designer · Scheduled Script Executions · UI Policies · Integrações REST · Adaptive Cards
 
 ### Dados e infraestrutura
 
-<table>
-  <tr>
-    <td align="center" colspan="2"><img src="./assets/technologies/sql-server.svg" width="40" height="40" alt="SQL Server" /><br><sub>SQL Server</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/sqlite.svg" width="40" height="40" alt="SQLite" /><br><sub>SQLite</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/linux.svg" width="40" height="40" alt="Linux" /><br><sub>Linux</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3"><img src="./assets/technologies/windows.svg" width="40" height="40" alt="Windows" /><br><sub>Windows</sub></td>
-    <td align="center" colspan="3"><img src="./assets/technologies/cloudflare.svg" width="40" height="40" alt="Cloudflare" /><br><sub>Cloud&#8203;flare</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="./assets/technologies/sql-server.svg" width="22" height="22" alt="SQL Server" /> SQL Server &nbsp;·&nbsp;
+  <img src="./assets/technologies/sqlite.svg" width="22" height="22" alt="SQLite" /> SQLite &nbsp;·&nbsp;
+  <img src="./assets/technologies/linux.svg" width="22" height="22" alt="Linux" /> Linux &nbsp;·&nbsp;
+  <img src="./assets/technologies/windows.svg" width="22" height="22" alt="Windows" /> Windows &nbsp;·&nbsp;
+  <img src="./assets/technologies/cloudflare.svg" width="22" height="22" alt="Cloudflare" /> Cloudflare
+</p>
 
 SQL · T-SQL · SharePoint · Linux e Windows como ambientes de execução e CI.<br>
 Suporte de redes N1/N2, diagnóstico de conectividade e monitoramento com Zabbix e IXC Soft.
 
 ### Ferramentas e qualidade
 
-<table>
-  <tr>
-    <td align="center" colspan="2"><img src="./assets/technologies/git.svg" width="40" height="40" alt="Git" /><br><sub>Git</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/github.svg" width="40" height="40" alt="GitHub" /><br><sub>GitHub</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/github-actions.svg" width="40" height="40" alt="GitHub Actions" /><br><sub>GitHub<br>Actions</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="./assets/technologies/vscode.svg" width="40" height="40" alt="Visual Studio Code" /><br><sub>Visual Studio<br>Code</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/azure-devops.svg" width="40" height="40" alt="Azure DevOps" /><br><sub>Azure<br>DevOps</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/postman.svg" width="40" height="40" alt="Postman" /><br><sub>Postman</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="./assets/technologies/vitest.svg" width="40" height="40" alt="Vitest" /><br><sub>Vitest</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/playwright.svg" width="40" height="40" alt="Playwright" /><br><sub>Play&#8203;wright</sub></td>
-    <td align="center" colspan="2"><img src="./assets/technologies/figma.svg" width="40" height="40" alt="Figma" /><br><sub>Figma</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="./assets/technologies/git.svg" width="22" height="22" alt="Git" /> Git &nbsp;·&nbsp;
+  <img src="./assets/technologies/github.svg" width="22" height="22" alt="GitHub" /> GitHub &nbsp;·&nbsp;
+  <img src="./assets/technologies/github-actions.svg" width="22" height="22" alt="GitHub Actions" /> GitHub Actions &nbsp;·&nbsp;
+  <img src="./assets/technologies/vscode.svg" width="22" height="22" alt="Visual Studio Code" /> Visual Studio Code &nbsp;·&nbsp;
+  <img src="./assets/technologies/azure-devops.svg" width="22" height="22" alt="Azure DevOps" /> Azure DevOps
+</p>
+<p>
+  <img src="./assets/technologies/postman.svg" width="22" height="22" alt="Postman" /> Postman &nbsp;·&nbsp;
+  <img src="./assets/technologies/vitest.svg" width="22" height="22" alt="Vitest" /> Vitest &nbsp;·&nbsp;
+  <img src="./assets/technologies/playwright.svg" width="22" height="22" alt="Playwright" /> Playwright &nbsp;·&nbsp;
+  <img src="./assets/technologies/figma.svg" width="22" height="22" alt="Figma" /> Figma
+</p>
 
 ## Da ideia à implementação
 
