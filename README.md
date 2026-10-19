@@ -77,33 +77,20 @@ Website editorial responsivo sobre a Patagônia, com destinos, expedições, gal
 
 ### Linguagens e desenvolvimento
 
-**Linguagens**
-
+**Linguagens**<br>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="./assets/technologies/html5.svg" width="40" height="40" align="middle" alt="HTML5 logo" />&nbsp;<strong>HTML5</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/css3.svg" width="40" height="40" align="middle" alt="CSS3 logo" />&nbsp;<strong>CSS3</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/javascript.svg" width="40" height="40" align="middle" alt="JavaScript logo" />&nbsp;<strong>JavaScript</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/typescript.svg" width="40" height="40" align="middle" alt="TypeScript logo" />&nbsp;<strong>TypeScript</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/python.svg" width="40" height="40" align="middle" alt="Python logo" />&nbsp;<strong>Python</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/java.svg" width="40" height="40" align="middle" alt="Java logo" />&nbsp;<strong>Java</strong>
 </p>
 
-**Desenvolvimento web**
-
+**Desenvolvimento web**<br>
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />&nbsp;
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="./assets/technologies/react.svg" width="40" height="40" align="middle" alt="React logo" />&nbsp;<strong>React</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/nodejs.svg" width="40" height="40" align="middle" alt="Node.js logo" />&nbsp;<strong>Node.js</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/vite.svg" width="40" height="40" align="middle" alt="Vite logo" />&nbsp;<strong>Vite</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/fastify.svg" width="40" height="40" align="middle" alt="Fastify logo" />&nbsp;<strong>Fastify</strong>
 </p>
 
 ### ITSM e automação
 
 <p>
-  <img src="./assets/technologies/servicenow.svg" width="22" height="22" alt="ServiceNow" /> ServiceNow &nbsp;·&nbsp;
-  <img src="./assets/technologies/power-automate.svg" width="22" height="22" alt="Power Automate" /> Power Automate &nbsp;·&nbsp;
-  <img src="./assets/technologies/power-bi.svg" width="22" height="22" alt="Power BI" /> Power BI &nbsp;·&nbsp;
-  <img src="./assets/technologies/teams.svg" width="22" height="22" alt="Microsoft Teams" /> Microsoft Teams
+  <img src="./assets/technologies/servicenow.svg" width="40" height="40" align="middle" alt="ServiceNow logo" />&nbsp;<strong>ServiceNow</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/power-automate.svg" width="40" height="40" align="middle" alt="Power Automate logo" />&nbsp;<strong>Power Automate</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/power-bi.svg" width="40" height="40" align="middle" alt="Power BI logo" />&nbsp;<strong>Power BI</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/teams.svg" width="40" height="40" align="middle" alt="Microsoft Teams logo" />&nbsp;<strong>Microsoft Teams</strong>
 </p>
 
 Incident Management · Problem Management · Business Rules · Flow Designer · Scheduled Script Executions · UI Policies · Integrações REST · Adaptive Cards
@@ -111,11 +98,7 @@ Incident Management · Problem Management · Business Rules · Flow Designer · 
 ### Dados e infraestrutura
 
 <p>
-  <img src="./assets/technologies/sql-server.svg" width="22" height="22" alt="SQL Server" /> SQL Server &nbsp;·&nbsp;
-  <img src="./assets/technologies/sqlite.svg" width="22" height="22" alt="SQLite" /> SQLite &nbsp;·&nbsp;
-  <img src="./assets/technologies/linux.svg" width="22" height="22" alt="Linux" /> Linux &nbsp;·&nbsp;
-  <img src="./assets/technologies/windows.svg" width="22" height="22" alt="Windows" /> Windows &nbsp;·&nbsp;
-  <img src="./assets/technologies/cloudflare.svg" width="22" height="22" alt="Cloudflare" /> Cloudflare
+  <img src="./assets/technologies/sql-server.svg" width="40" height="40" align="middle" alt="SQL Server logo" />&nbsp;<strong>SQL Server</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/sqlite.svg" width="40" height="40" align="middle" alt="SQLite logo" />&nbsp;<strong>SQLite</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/linux.svg" width="40" height="40" align="middle" alt="Linux logo" />&nbsp;<strong>Linux</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/windows.svg" width="40" height="40" align="middle" alt="Windows logo" />&nbsp;<strong>Windows</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/cloudflare.svg" width="40" height="40" align="middle" alt="Cloudflare logo" />&nbsp;<strong>Cloudflare</strong>
 </p>
 
 SQL · T-SQL · SharePoint · Linux e Windows como ambientes de execução e CI.<br>
@@ -124,17 +107,10 @@ Suporte de redes N1/N2, diagnóstico de conectividade e monitoramento com Zabbix
 ### Ferramentas e qualidade
 
 <p>
-  <img src="./assets/technologies/git.svg" width="22" height="22" alt="Git" /> Git &nbsp;·&nbsp;
-  <img src="./assets/technologies/github.svg" width="22" height="22" alt="GitHub" /> GitHub &nbsp;·&nbsp;
-  <img src="./assets/technologies/github-actions.svg" width="22" height="22" alt="GitHub Actions" /> GitHub Actions &nbsp;·&nbsp;
-  <img src="./assets/technologies/vscode.svg" width="22" height="22" alt="Visual Studio Code" /> Visual Studio Code &nbsp;·&nbsp;
-  <img src="./assets/technologies/azure-devops.svg" width="22" height="22" alt="Azure DevOps" /> Azure DevOps
+  <img src="./assets/technologies/git.svg" width="40" height="40" align="middle" alt="Git logo" />&nbsp;<strong>Git</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/github.svg" width="40" height="40" align="middle" alt="GitHub logo" />&nbsp;<strong>GitHub</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/github-actions.svg" width="40" height="40" align="middle" alt="GitHub Actions logo" />&nbsp;<strong>GitHub Actions</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/vscode.svg" width="40" height="40" align="middle" alt="Visual Studio Code logo" />&nbsp;<strong>Visual Studio Code</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/azure-devops.svg" width="40" height="40" align="middle" alt="Azure DevOps logo" />&nbsp;<strong>Azure DevOps</strong>
 </p>
 <p>
-  <img src="./assets/technologies/postman.svg" width="22" height="22" alt="Postman" /> Postman &nbsp;·&nbsp;
-  <img src="./assets/technologies/vitest.svg" width="22" height="22" alt="Vitest" /> Vitest &nbsp;·&nbsp;
-  <img src="./assets/technologies/playwright.svg" width="22" height="22" alt="Playwright" /> Playwright &nbsp;·&nbsp;
-  <img src="./assets/technologies/figma.svg" width="22" height="22" alt="Figma" /> Figma
+  <img src="./assets/technologies/postman.svg" width="40" height="40" align="middle" alt="Postman logo" />&nbsp;<strong>Postman</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/vitest.svg" width="40" height="40" align="middle" alt="Vitest logo" />&nbsp;<strong>Vitest</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/playwright.svg" width="40" height="40" align="middle" alt="Playwright logo" />&nbsp;<strong>Playwright</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/figma.svg" width="40" height="40" align="middle" alt="Figma logo" />&nbsp;<strong>Figma</strong>
 </p>
 
 ## Da ideia à implementação
