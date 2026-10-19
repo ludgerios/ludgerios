@@ -75,17 +75,9 @@ Website editorial responsivo sobre a Patagônia, com destinos, expedições, gal
 
 ## Competências e ferramentas
 
-### Linguagens e desenvolvimento
+### Tecnologia aplicada a processos reais
 
-**Linguagens**<br>
-<p>
-  <img src="./assets/technologies/html5.svg" width="40" height="40" align="middle" alt="HTML5 logo" />&nbsp;<strong>HTML5</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/css3.svg" width="40" height="40" align="middle" alt="CSS3 logo" />&nbsp;<strong>CSS3</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/javascript.svg" width="40" height="40" align="middle" alt="JavaScript logo" />&nbsp;<strong>JavaScript</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/typescript.svg" width="40" height="40" align="middle" alt="TypeScript logo" />&nbsp;<strong>TypeScript</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/python.svg" width="40" height="40" align="middle" alt="Python logo" />&nbsp;<strong>Python</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/java.svg" width="40" height="40" align="middle" alt="Java logo" />&nbsp;<strong>Java</strong>
-</p>
-
-**Desenvolvimento web**<br>
-<p>
-  <img src="./assets/technologies/react.svg" width="40" height="40" align="middle" alt="React logo" />&nbsp;<strong>React</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/nodejs.svg" width="40" height="40" align="middle" alt="Node.js logo" />&nbsp;<strong>Node.js</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/vite.svg" width="40" height="40" align="middle" alt="Vite logo" />&nbsp;<strong>Vite</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/technologies/fastify.svg" width="40" height="40" align="middle" alt="Fastify logo" />&nbsp;<strong>Fastify</strong>
-</p>
+Minha experiência em **gestão de serviços de TI** e suporte de redes me ajuda a entender necessidades da operação. Nos projetos de software e automação, transformo essas necessidades em soluções digitais que organizam fluxos e facilitam o trabalho de quem usa.
 
 ### ITSM e automação
 
